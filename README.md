@@ -1,0 +1,2 @@
+# TriGo
+wala lang
